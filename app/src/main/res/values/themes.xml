@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Tax_Trek_Final" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Tax_Trek_Final" parent="Base.Theme.Tax_Trek_Final" />
+</resources>
